@@ -1,0 +1,6 @@
+ARCH=amd64
+KVER=4.4.0
+KPATCH=138
+PVER=164
+KVAR=lowlatency
+DOWNLOAD_PATH=downloaded
